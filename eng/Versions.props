@@ -8,5 +8,9 @@
     <!-- Allowed values: '', 'prerelease', 'release'. Set to 'release' when stabilizing. -->
     <DotNetFinalVersionKind>
     </DotNetFinalVersionKind>
+    <MicrosoftBclHashCodeVersion>1.1.1</MicrosoftBclHashCodeVersion>
+    <SystemMemoryVersion>4.5.5</SystemMemoryVersion>
+    <MicrosoftIORedistVersion>6.0.1</MicrosoftIORedistVersion>
+    <Change>1</Change>
   </PropertyGroup>
 </Project>
