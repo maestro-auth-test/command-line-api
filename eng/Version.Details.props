@@ -5,12 +5,12 @@ This file should be imported by eng/Versions.props
 -->
 <Project>
   <PropertyGroup>
-    <!-- dotnet-dotnet dependencies -->
-    <MicrosoftDotNetArcadeSdkPackageVersion>11.0.0-beta.26357.109</MicrosoftDotNetArcadeSdkPackageVersion>
+    <!-- maestro-auth-test-dotnet dependencies -->
+    <MicrosoftDotNetArcadeSdkPackageVersion>11.0.0-beta.26411.119</MicrosoftDotNetArcadeSdkPackageVersion>
   </PropertyGroup>
   <!--Property group for alternate package version names-->
   <PropertyGroup>
-    <!-- dotnet-dotnet dependencies -->
+    <!-- maestro-auth-test-dotnet dependencies -->
     <MicrosoftDotNetArcadeSdkVersion>$(MicrosoftDotNetArcadeSdkPackageVersion)</MicrosoftDotNetArcadeSdkVersion>
   </PropertyGroup>
 </Project>
